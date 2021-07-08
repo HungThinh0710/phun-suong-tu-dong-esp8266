@@ -6,6 +6,10 @@ Hệ thống phun sương tự động, sử dụng cho cá nhân (Phi thương 
 
 Mist cooling automatic irrigation system by ESP8266 (Non-Commercial)
 
+
+
+<img width="200" alt="portfolio_view" src="https://github.com/HungThinh0710/phun-suong-tu-dong-esp8266/blob/master/screenshot.jpg?raw=true">
+
 ## Information
 
 | Libraries        | Information                                   |
@@ -69,6 +73,9 @@ Upload code from `phunsuongtudong-phoenix.ino` file to your esp8266 ( Find at `p
 
 > Q: Why client-side have only Vietnamese language ?
 >
-> Users of this project are my parents, so that's I must use mother tongue for them (You can contribute if you want).
+> A: Users of this project are my parents, so that's I must use mother tongue for them (You can contribute if you want).
 
-## USE AT YOUR OWN RISK.
+**USE AT YOUR OWN RISK.**
+
+##  © 2021 by Hưng Thịnh a.k.a Phoenix
+
