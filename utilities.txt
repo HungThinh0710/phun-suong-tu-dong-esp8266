@@ -1,0 +1,17 @@
+LIST FILE AND SIZE in LittleFS
+//    // Open dir folder
+//    Dir dir = LittleFS.openDir("/");
+//    // Cycle all the content
+//    while (dir.next()) {
+//      // get filename
+//      Serial.print(dir.fileName());
+//      Serial.print(" - ");
+//      // If element have a size display It else write 0
+//      if (dir.fileSize()) {
+//        File f = dir.openFile("r");
+//        Serial.println(f.size());
+//        f.close();
+//      } else {
+//        Serial.println("0");
+//      }
+//    }
